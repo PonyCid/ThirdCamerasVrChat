@@ -16,6 +16,9 @@ They allow users to see themselves with a third camera and enjoying the dances w
 
 Built in Unity 2017.4.15f1
 
+# Warning
+This is a beta version, the configuration is messy and not optimal .
+
 
 ----------
 
@@ -50,4 +53,7 @@ These assets are needed.
 
 # Rules
 If you find this prefab useful, all I ask is a simple credit somewhere or a "Thanks message" to "cid33(PonyCid)#0754" or on my Discord server.
+
+# Warning
+This is a beta version, the configuration is messy and not optimal.
 
