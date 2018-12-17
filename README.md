@@ -41,9 +41,9 @@ You can change the keys in the following place
 ## Requirements
 
 These assets are needed.
-* Unity Standard Assets
+* [Unity Standard Assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351)
 * [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290)
 -----------------------------------------------------
 
 # Rules
-If you find this prefab useful, all I ask is a simple credit somewhere or a "Thanks message" on my private Discord "cid33(PonyCid)#0754" or my Discord server.
+If you find this prefab useful, all I ask is a simple credit somewhere or a "Thanks message" to "cid33(PonyCid)#0754" or on my Discord server.
