@@ -4,14 +4,12 @@ Prefabs created by: PonyCid
 
 [Discord](https://discord.gg/q8MNVqM)
 
-Discord: cid33(PonyCid)#0754
-
 [twitter](https://twitter.com/PonyCid)
 
 
 ----------
 ## About
-A Third person cameras that can be used in your world.
+A third person cameras that can be used in your world.
 
 Built in Unity 2017.4.15f1
 
@@ -48,4 +46,4 @@ These assets are needed.
 -----------------------------------------------------
 
 # Rules
-If you find this prefab useful, all I ask is a simple credit somewhere or a "Thanks message" on my private Discord or my Discord server.
+If you find this prefab useful, all I ask is a simple credit somewhere or a "Thanks message" on my private Discord "cid33(PonyCid)#0754" or my Discord server.
