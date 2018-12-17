@@ -16,8 +16,6 @@ They allow users to see themselves with a third camera and enjoying the dances w
 
 Built in Unity 2017.4.15f1
 
-PlayerTracking by HardLight
-CameraSystem by PonyCid
 ----------
 
 # How to Use
