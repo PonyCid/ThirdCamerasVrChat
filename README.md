@@ -1,4 +1,4 @@
-# VrChat Third person camera
+# VrChat Third person camera - BETA
 
 Prefabs created by: PonyCid
 
