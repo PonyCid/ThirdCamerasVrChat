@@ -44,7 +44,6 @@ You can change the keys in the following place
     -> DesktopCam
 
 
-----------
 ## Requirements
 
 These assets are needed.
