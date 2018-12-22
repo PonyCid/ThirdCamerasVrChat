@@ -53,7 +53,7 @@ These assets are needed.
 -----------------------------------------------------
 
 # Rules
-If you find this prefab useful, all I ask is a simple credit somewhere or a "Thanks message" to "cid33(PonyCid)#0754" or on my Discord server.
+If you find this prefab useful, all I ask is a simple credit somewhere or a "Thanks message" on my Discord server or twitter.
 
 # Warning
 This is a beta version, the configuration is messy and not optimal.
