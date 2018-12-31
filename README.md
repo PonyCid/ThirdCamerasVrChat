@@ -13,7 +13,7 @@ CameraSystem by PonyCid
 
 ----------
 ## About
-A third person cameras that can be used in your world.
+Multiple third person camera that can be used in your world.
 
 These camera have been created to be used with a MMD Stage.
 They allow users to see themselves with a third camera and enjoying the dances with a better view.
