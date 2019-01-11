@@ -31,7 +31,7 @@ Built in Unity 2017.4.15f1
       -> Pivot
 	      -> CameraVR
 
-# How to Use
+# Commands
 1 - Following Camera for Desktop and Vr users.
 3 - Stationary Camera for Desktop and Vr users.
 F9 - Stationary camera with zoom for Desktop users.
