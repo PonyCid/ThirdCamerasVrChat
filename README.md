@@ -26,10 +26,12 @@ Built in Unity 2017.4.15f1
 # How to Use
 1. Extract the Prefab Folder and Meta file into the ASSETS folder
 2. Add one of the prefabs into your scene and follow the direction indicated by the arrow.
-3. If the cameras are not in the right direction, You can change the position of the camera in the following place
-    -> "FollowingCameraRig" or "StationaryCameraRig"
-      -> Pivot
-	      -> CameraVR
+3. If the cameras don't spawn where you want them to be, for example, behind your character, you can change this by rotation the CameraRig Game object on the Y Axis at the following positions for each Camera.
+
+Desktop Camera		-> DesktopCamBroken
+Following Camera	-> FollowingCameraRig
+Stationary Camera	-> StationaryCameraRig
+    
 
 # Commands
 1 - Following Camera for Desktop and Vr users.
@@ -56,6 +58,8 @@ If you find this prefab useful, all I ask is a simple credit somewhere or a "Tha
 
 # Warning
 This is a beta version, the configuration is messy and not optimal.
+
+The Desktop Camera that allowed you to zoom in and out doesn't work anymore.
 
 Makes sure that the camera deactivates itself when the player reset his ShapesKey(Viseme)
 
