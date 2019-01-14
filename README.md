@@ -59,7 +59,7 @@ If you find this prefab useful, all I ask is a simple credit somewhere or a "Tha
 # Warning
 This is a beta version, the configuration is messy and not optimal.
 
-The Desktop Camera that allowed you to zoom in and out doesn't work anymore.
+The Desktop Camera that allows you to zoom in and out doesn't work anymore.
 
 Makes sure that the camera deactivates itself when the player reset his ShapesKey(Viseme)
 
