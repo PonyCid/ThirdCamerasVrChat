@@ -29,7 +29,9 @@ Built in Unity 2017.4.15f1
 3. If the cameras don't spawn where you want them to be, for example, behind your character, you can change this by rotation the CameraRig Game object on the Y Axis at the following positions for each Camera.
 
 Desktop Camera		-> DesktopCamBroken
+
 Following Camera	-> FollowingCameraRig
+
 Stationary Camera	-> StationaryCameraRig
     
 
